@@ -2,3 +2,4 @@ body {margin:0;}
 .box {width:100vw; height:100vh; position:relative; background:lightgray; overflow:hidden;}
 #range {position:fixed; top:10px; left:10px; z-index:99;}
 #num {position:fixed; top:10px; right:10px; z-index:99;}
+.circ {border-radius:100%; position:absolute;}
